@@ -1,2 +1,2 @@
 # devops
-for devops class
+for devops class testig pull and push
